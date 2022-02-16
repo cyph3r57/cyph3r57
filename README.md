@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyph3r57
 - 👀 I’m interested in web programming 
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Logica Informatica https://www.logica3.it
 - 📫 How to reach me: giannirussu@gmail.com
 
 <!---
