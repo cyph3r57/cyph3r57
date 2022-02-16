@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyph3r57
 - 👀 I’m interested in web programming 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
