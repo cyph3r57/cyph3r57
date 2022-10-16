@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programming 
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on Logica Informatica https://www.logica3.it
-- 📫 How to reach me: giannirussu@gmail.com
+- 📫 How to reach me: cyph3r57@gmail.com
 
 <!---
 cyph3r57/cyph3r57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
